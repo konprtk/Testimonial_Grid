@@ -5,10 +5,8 @@
 This is a simple project showcasing a responsive testimonials grid section created using HTML and CSS. 
 The design follows a mobile-first approach and features testimonials from verified graduates.
 
-## Demo
 
-You can view a live demo of the project [here](https://your-demo-url.com).
-
+You can visit the live website at [konprtk.github.io](https://konprtk.github.io/Testimonial_Grid/).
 ## Features
 
 - Mobile-first responsive design.
