@@ -21,7 +21,7 @@ To get started with this project on your local machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/testimonials-grid-challenge.git
+   git clone https://github.com/konprtk/Testimonial_Grid.git
    ```
 
 2. Open the project folder in your favorite code editor.
